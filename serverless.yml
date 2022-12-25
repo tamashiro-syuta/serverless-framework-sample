@@ -1,4 +1,3 @@
-org: syuta
 app: serverless-framework-sample
 service: serverless-framework-sample
 frameworkVersion: '3'
